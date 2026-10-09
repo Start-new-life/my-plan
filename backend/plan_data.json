@@ -1,0 +1,20 @@
+{
+  "plan_collapse_state": "{\"1\":false,\"2\":true,\"3\":false}",
+  "plan_focus_times": "[{\"date\":\"2026-09-02\",\"period\":\"下午\",\"count\":8}]",
+  "plan_review_open": "true",
+  "plan_progress_data": "{\"date\":\"2026-09-03\",\"progress\":{\"408\":{\"progress\":2,\"target\":100},\"lc\":{\"progress\":0,\"target\":100},\"cet6\":{\"progress\":0,\"target\":100},\"intern\":{\"progress\":0,\"target\":47},\"math\":{\"progress\":10,\"target\":31},\"gpa\":{\"progress\":0,\"target\":100}}}",
+  "plan_drive_data": "{\"cet\":{\"total\":1443,\"done\":0},\"math\":{\"total\":31,\"done\":10},\"lc\":{\"total\":150,\"done\":0}}",
+  "plan_sort_state": "{\"sort\":\"priority\",\"filter\":\"all\"}",
+  "plan_quote_last": "8",
+  "plan_history": "[{\"date\":\"2026-09-23\",\"done\":3,\"total\":7,\"pct\":43},{\"date\":\"2026-09-24\",\"done\":0,\"total\":7,\"pct\":0},{\"date\":\"2026-09-26\",\"done\":0,\"total\":7,\"pct\":0},{\"date\":\"2026-09-28\",\"done\":0,\"total\":7,\"pct\":0},{\"date\":\"2026-09-29\",\"done\":0,\"total\":7,\"pct\":0},{\"date\":\"2026-09-30\",\"done\":0,\"total\":7,\"pct\":0}]",
+  "plan_drive_done_2026-09-26": "{\"math\":1}",
+  "plan_week_manual": "{\"2026-09-04\":\"数学 1集\",\"2026-09-05\":\"单词20，数1，java\",\"2026-09-26\":\"数学 1集，剪辑，吉他，力扣\"}",
+  "plan_palette_last": "2",
+  "plan_quick_links": "[{\"name\":\"力扣\",\"url\":\"https://leetcode.cn/\"},{\"name\":\"清华研招\",\"url\":\"https://yz.tsinghua.edu.cn/\"},{\"name\":\"GitHub\",\"url\":\"https://github.com/\"}]",
+  "plan_history_collapsed": "0",
+  "plan_sens_value": "1",
+  "plan_today_done": "{\"date\":\"2026-09-28\",\"list\":[]}",
+  "plan_drive_done_2026-09-03": "{\"math\":2,\"cet\":true,\"lc\":true}",
+  "plan_three_tasks": "{\"date\":\"2026-09-26\",\"items\":[\"去农大玩\",\"回看EDG\",\"\"],\"done\":[false,false,false]}",
+  "plan_settings": "{\"cet\":{\"total\":1443,\"done\":0,\"examDate\":\"2026-12-12\"},\"math\":{\"total\":31,\"done\":11,\"deadline\":\"2026-11-14\"},\"lc\":{\"total\":100,\"done\":0,\"deadline\":\"2026-10-20\"},\"milestones\":{\"m1\":\"2026-10-01\",\"m2\":\"2026-10-20\",\"m3\":\"2026-10-31\"}}"
+}
